@@ -43,5 +43,5 @@
   <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/DeveloperBackendPro/Django-Quiz/assets/77174755/adc7597c-7be6-4d45-a343-c2088157e561" alt="ubuntu.com" width="40" height="40"/> </a> 
 </p>
 <div align="center">
-<img witd='400' src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
