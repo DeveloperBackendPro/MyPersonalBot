@@ -1,5 +1,5 @@
 <div align="center"> <img src="https://github.com/DeveloperBackendPro/Django-Quiz/assets/77174755/772ba1a6-e47c-48fb-ab0a-15c4d1a577ee"> </div>
-<h1 align="center">Hi 👋, I'm Ikromov Dilshodbek</h1>
+<h1 align="center">Hi 👋, I'm Dilshodbek</h1>
 <h3 align="center">I'm a passionate Backend developer based in Uzbekistan. I love creating interactive and user-friendly web experiences.</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/DeveloperBackendPro/Django-Quiz/assets/77174755/117994b5-0a5b-4aa6-9d26-24610306ab1b">
 
