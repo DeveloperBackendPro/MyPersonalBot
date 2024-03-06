@@ -13,6 +13,9 @@ def initialize_chrome_driver():
     options.add_argument('--headless')
     options.add_argument('--disable-gpu')
     options.add_argument('--no-sandbox')
+    options.add_argument('--disable-dev-shm-usage')
+    options.add_argument('--profile-directory=Default')
+    options.add_argument('--user-data-dir=/root/MyPersonalBot/chrome/')
     return webdriver.Chrome(options=options)
 
 def is_instagram(url) -> bool:
