@@ -49,4 +49,4 @@ async def send_welcome(message: types.Message):
 if __name__ == '__main__':
     from aiogram import executor
     loop = asyncio.get_event_loop()
-    executor.start_polling(dp, loop=loop)
+    executor.start_polling(dp, loop=loop, skip_updates=True)
